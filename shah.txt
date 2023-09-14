@@ -1,0 +1,12 @@
+Shahzain 
+Zaidi 
+Thisiszaidi!1 
+0.000000
+Rs.2000.00 Deposited 
+Balance Remaining: 2000.00
+Rs.299.00 Transfer from Haider
+2313.95
+Rs.2000.00 Transfer To haider
+Balance Remaining: 213.95
+Rs.200.00 Transfer To mujji
+Balance Remaining: 3.95
